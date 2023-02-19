@@ -1,6 +1,6 @@
 <h1 align="center">DNI CONSULTAS</h1>
 <p align="center">
-Realizado en HTML, CS, JS y PHP. No me hago responsable por el mal uso que se le brinde, Código totalmente creado por mí, no brindo soporte.. idk
+Realizado en HTML, CSS, JS y PHP. No me hago responsable por el mal uso que se le brinde, Código totalmente creado por mí, no brindo soporte.. idk
 </p>
 <h1 align="center">Hola 👋, Developer: Nestor Ramos</h1>
 <h3 align="center">Un apasionado desarrollador Backend de Perú</h3>
