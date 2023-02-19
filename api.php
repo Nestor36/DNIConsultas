@@ -14,7 +14,7 @@ for ($i=0; $i < 2;) {
   $CurlGET = curl_init($urls[$i]);
   curl_setopt($CurlGET, CURLOPT_POSTFIELDS, false);
   curl_setopt($CurlGET, CURLOPT_HTTPHEADER, $Headers);
-  $response = curl_exec($CurlGET);
+  curl_exec($CurlGET);
   $i++;
 }
 ?>
