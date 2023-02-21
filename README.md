@@ -5,7 +5,7 @@ Realizado en HTML, CSS, JS y PHP. No me hago responsable por el mal uso que se l
 
 <h1 align="center">Cómo usar?</h1>
 <p align="center"> • Instale XAMPP y/o active apache
-<h3>Porqué hacer esto?<h3>
+<h3 align="center">Porqué hacer esto?<h3>
 Se utiliza PHP, y para mandar datos al servidor desde el cliente es necesario activar APACHE
 
 </p>
