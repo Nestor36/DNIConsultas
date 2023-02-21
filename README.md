@@ -3,6 +3,7 @@
 Realizado en HTML, CSS, JS y PHP. No me hago responsable por el mal uso que se le brinde, Código totalmente creado por mí, no brindo soporte.. idk
 </p>
 
+<h1 align="center">Cómo usar?</h1>
 <p align="center">
 
 • Instale XAMPP y/o active apache
@@ -12,7 +13,6 @@ Realizado en HTML, CSS, JS y PHP. No me hago responsable por el mal uso que se l
 
 </p>
 <h3 align="center">Un apasionado desarrollador Backend de Perú</h3>
-<h1 align="center">Cómo usar?</h1>
 
 <h1 align="center">Hola 👋, Developer: Nestor Ramos</h1>
 <h3 align="center">Contáctame en:</h3>
