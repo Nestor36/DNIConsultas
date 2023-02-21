@@ -4,7 +4,15 @@ Realizado en HTML, CSS, JS y PHP. No me hago responsable por el mal uso que se l
 </p>
 <h1 align="center">Hola 👋, Developer: Nestor Ramos</h1>
 <h3 align="center">Un apasionado desarrollador Backend de Perú</h3>
+<h1 align="center">Cómo usar?</h1>
+<p align="center">
 
+• Instale XAMPP y/o active apache
+
+***Porqué hacer esto?
+- se utiliza PHP, y para mandar datos al servidor desde el cliente es necesario activar APACHE
+
+</p>
 <h3 align="center">Contáctame en:</h3>
 <p align="center">
 <a href="https://twitter.com/guxfiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="guxfiz" height="30" width="40" /></a>
